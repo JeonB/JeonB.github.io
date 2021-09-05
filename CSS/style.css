@@ -1,0 +1,12 @@
+.hidden {
+  display: none;
+}
+
+.bgImg {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+li,
+#quote {
+  color: floralwhite;
+}
